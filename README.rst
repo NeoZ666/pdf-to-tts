@@ -35,7 +35,7 @@ Author
 
 👤 **NeoZ / Harsh Jain**
 
-*  Github: `@Sengolda <https://github.com/NeoZ666`_
+*  Github: `@NeoZ <https://github.com/NeoZ666`_
 
 🤝 Contributing
 ============================================
