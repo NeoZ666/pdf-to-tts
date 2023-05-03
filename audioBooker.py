@@ -7,7 +7,7 @@ def pdfToMusic():
     if path.exists():
         reader = PdfReader(pathFunction)
         path = path.split("/")
-        pdf_name = path[2].split(".")[0]
+        pdf_name = path[-1].split(".")[0]
 
         i=7
         textfile = []
